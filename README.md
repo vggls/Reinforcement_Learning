@@ -18,6 +18,6 @@ The agent receives a reward of 100 when it reaches the goal state, -70 for the b
 
 The agent’s task is to find a policy to reach the goal state as quickly as possible, while avoiding the bad state.
 
-task 1 : We compute the optimal policy by imlpementing the value iteration algorithm .
+task 1 : We compute the optimal policy by imlpementing the Value Iteration algorithm .
 
 task 2 : We compute the optimal policy by implementing the Q-learning algorithm.
